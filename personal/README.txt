@@ -1,5 +1,3 @@
-Sure! I can help you create a README file for your personal portfolio website. Here's a template you can use:
-
 # Personal Portfolio Website
 
 This is a repository for my personal portfolio website. It showcases my skills, projects, and experiences. The website is designed to provide visitors with an overview of my work and abilities.
